@@ -9,7 +9,38 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UberApplication">
-        <activity android:name=".MainActivity">
+
+        <activity
+            android:name=".TaskActivity1"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity3"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity4"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity5"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity6"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity8"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity9"
+            android:exported="true" />
+        <activity
+            android:name=".TaskActivity10"
+            android:exported="true" />
+        <activity android:name=".StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
