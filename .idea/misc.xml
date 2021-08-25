@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/drawable/ic_download.xml" value="0.3828125" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_start.xml" value="0.33" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task1.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task10.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task2.xml" value="0.5" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task3.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task4.xml" value="0.37864583333333335" />
         <entry key="..\:/Users/vital/AndroidStudioProjects/UberApplication/app/src/main/res/layout/activity_task5.xml" value="0.36666666666666664" />
